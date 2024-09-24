@@ -1,0 +1,24 @@
+{
+  "originHash" : "0ba5bb3fa49fe5d0569199926aa4a69a8554d27209022f993e73fec83d7af251",
+  "pins" : [
+    {
+      "identity" : "designkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/foreflight/DesignKit.git",
+      "state" : {
+        "revision" : "ef3887129d181934a27662573e8a3c4ed9b3b9cf",
+        "version" : "1.7.2"
+      }
+    },
+    {
+      "identity" : "swiftui-introspect",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/siteline/swiftui-introspect",
+      "state" : {
+        "revision" : "7dc5b287f8040e4ad5038739850b758e78f77808",
+        "version" : "1.1.4"
+      }
+    }
+  ],
+  "version" : 3
+}
